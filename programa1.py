@@ -3,3 +3,7 @@ def multiplicacion(a,b):
     return c
 
 multiplicacion (3,4)
+
+def division(a,b):
+    c=a/b
+    return c
